@@ -9,7 +9,7 @@
 
 ## Power BI 360: Comprehensive Business Intelligence Dashboard
 
-This project presents a comprehensive 360-degree view of business operations using Power BI. The dashboard encompasses multiple aspects of the organization, including Finance, Sales, Marketing, Supply Chain, and Educational insights.
+This project presents a comprehensive 360-degree view of business operations using Power BI. The dashboard encompasses multiple aspects of the organization, including Finance, Sales, Marketing, Supply Chain, and Executive insights.
 
 **Key Features:**
 
@@ -41,7 +41,7 @@ This project presents a comprehensive 360-degree view of business operations usi
 - Combined bar and line chart for FCA% and Net Error trends
 - Product-specific key metrics
 
-**6. Educational View**
+**6. Executive View**
 - Yearly trends for Gross Margin, Net Profit, and PC Market Share
 - PC Market Share comparison between ATLIq and competitors
 - Revenue division analysis by channel
@@ -54,6 +54,6 @@ This project presents a comprehensive 360-degree view of business operations usi
 **8. Information Page**
 - Detailed explanations and definitions for metrics and visualizations
 
-This Power BI project offers a holistic view of the business, enabling data-driven decision-making across various departments. It combines financial analysis, sales performance, marketing effectiveness, supply chain efficiency, and educational insights into a single, user-friendly dashboard. The interactive features and comprehensive filtering options allow for deep dives into specific areas of interest, making it an invaluable tool for executives, managers, and analysts alike.
+This Power BI project offers a holistic view of the business, enabling data-driven decision-making across various departments. It combines financial analysis, sales performance, marketing effectiveness, supply chain efficiency, and executive insights into a single, user-friendly dashboard. The interactive features and comprehensive filtering options allow for deep dives into specific areas of interest, making it an invaluable tool for executives, managers, and analysts alike.
 
 The project demonstrates advanced Power BI techniques, including custom visualizations, dynamic KPI cards, and cross-view consistency in design and functionality. It serves as an excellent example of how to create a multi-faceted business intelligence solution that caters to diverse stakeholder needs while maintaining clarity and ease of use.
